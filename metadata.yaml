@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39262
     wikipedia: http://it.wikipedia.org/wiki/Alfredo_Panzini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42347#Viaggio-di-un-povero-letterato
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2013-03-16'
 gutenberg_type: Text
