@@ -1,0 +1,28 @@
+_repo: Viaggio-di-un-povero-letterato_42347
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42347-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Panzini, Alfredo
+    birthdate: 1863
+    deathdate: 1939
+    gutenberg_agent_id: '39262'
+    url: http://www.gutenberg.org/2009/agents/39262
+    wikipedia: http://it.wikipedia.org/wiki/Alfredo_Panzini
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2013-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42347'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- 20th century'
+- !lcc 'PQ'
+title: Viaggio di un povero letterato
+url: http://www.gutenberg.org/ebooks/42347
